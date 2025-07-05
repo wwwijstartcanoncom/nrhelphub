@@ -10,7 +10,7 @@ Want to manage your WiFi settings or boost your home network's security? Visit `
 
 .. image:: Button.png
    :alt: Netgear Router Login
-   :target: https://fm.ci/?aHR0cHM6Ly9uZXRnZWFycm91dGVybG9naW5oZWxwaHViLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://sites.google.com/view/routerloginnetgear/
 
 .. raw:: html
 
